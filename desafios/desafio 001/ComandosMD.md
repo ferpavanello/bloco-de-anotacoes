@@ -10,7 +10,8 @@
 <br>
 
 > Bloco de anotações: <br>
-> Muito útil
+> Muito útil <br>
+> Algo pra comitar com mensagem errada
 
 Agora uma imagem: <br>
 ![CollabCode](https://yt3.ggpht.com/a-/AN66SAxBTLEQsQPkmtu0bsLOafKwJ7d-vOtfEzcikg=s288-mo-c-c0xffffffff-rj-k-no "Prazer Collab")
